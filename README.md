@@ -401,6 +401,8 @@ COMPLETE WEB DEVELOPMENT RESOURCES ALL IN ONE
 </li>
 <li><a href="https://resume.io/" target="_blank" rel="noopener" class="mycode_url">resume.io</a> - Free online resume maker, allows you to create a perfect resume in minutes. See how easy it is to write a professional resume and apply for jobs today!<br/>
 </li>
+<li><a href="https://withresumeai.com/" target="_blank" rel="noopener" class="mycode_url">ResumeAI</a> - AI resume builder with free ATS checks (3/day no account, 10/day free account).<br/>
+</li>
 <li><a href="https://www.resume-now.com/resume/builder" target="_blank" rel="noopener" class="mycode_url">Resume Now</a> - It Only Takes A Few Minutes. An online resume maker shouldn't take long to use—and our free-to-use resume builder doesn't.<br/>
 </li>
 <li><a href="https://www.canva.com/create/resumes/" target="_blank" rel="noopener" class="mycode_url">Canva</a> - With Canva's free resume builder, applying for your dream job is easy and fast. Choose from hundreds of free.<br/>
